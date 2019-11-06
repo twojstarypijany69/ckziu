@@ -1,2 +1,2 @@
 # ckziu
-cshool projects
+school projects
